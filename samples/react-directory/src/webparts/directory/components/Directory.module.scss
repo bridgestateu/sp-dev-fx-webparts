@@ -1,6 +1,9 @@
 @import '~office-ui-fabric-react/dist/sass/References.scss';
 
 .directory {
+  max-width: 950px;
+  margin: 0px auto;
+  
   .dropDownSortBy {
     margin-bottom: 15px;
   }
